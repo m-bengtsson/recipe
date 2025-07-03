@@ -1,0 +1,24 @@
+:root {
+  font-family: Arial, Helvetica, sans-serif;
+}
+body {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+article {
+  width: 50vw;
+  margin: auto;
+}
+
+.wrapper {
+  display: grid;
+}
+
+li {
+  list-style: none;
+}
+
+h3 {
+  text-transform: uppercase;
+}
